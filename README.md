@@ -1,0 +1,2 @@
+# front_news_check
+フロント用newsチェックアプリのフロント用
